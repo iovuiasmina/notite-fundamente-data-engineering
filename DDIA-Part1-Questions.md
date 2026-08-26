@@ -28,3 +28,7 @@ Cum scalati pentru a gestiona o crestere a incarcarii?
 Cum arata o API buna pentru serviciu?
 
 De ce se face asta?
+
+###### DDIA-Part1-26-08-2026
+
+De ce e importanta partea de reliability?
