@@ -32,3 +32,7 @@ De ce se face asta?
 ###### DDIA-Part1-26-08-2026
 
 De ce e importanta partea de reliability?
+
+###### DDIA-Part1-27-08-2026
+
+Am nevoie de lamurire la cadrul de pe pagina 16
