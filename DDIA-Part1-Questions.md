@@ -36,3 +36,13 @@ De ce e importanta partea de reliability?
 ###### DDIA-Part1-27-08-2026
 
 Am nevoie de lamurire la cadrul de pe pagina 16
+
+###### DDIA-Part1-29-08-2026
+
+De exemplu, cum ati "refactoriza" arhitectura Twitter pentru asamblarea cronologiilor de acasa de la abordarea 1 la abordarea 2?
+
+De ce ar trebui sa refactorizam codul nostru atunci cand functioneaza corect?
+
+Cand refactorizam? 
+
+Cum se identifica codul care trebuie refactorizat?
